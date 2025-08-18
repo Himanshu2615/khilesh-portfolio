@@ -176,7 +176,7 @@ function Contacts() {
                                     Name
                                 </label>
                                 <input
-                                    placeholder='Naveen Singh'
+                                    placeholder='Naveen'
                                     value={name}
                                     onChange={(e) => setName(e.target.value)}
                                     type='text'

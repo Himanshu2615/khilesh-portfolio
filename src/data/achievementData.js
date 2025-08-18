@@ -15,15 +15,23 @@ export const achievementData = {
             details : 'This course is part of the IBM Cybersecurity Analyst Professional Certificate, which is designed to help you build a strong foundation in cybersecurity concepts and skills.',
             date : '25th Apr 2025',
             field : 'Cyber',
-            image : 'https://courses.ibmcep.cognitiveclass.ai/certificates/1efe242985834428b7154fc60ffae539'
+            image : 'https://drive.google.com/drive/u/0/folders/1RVoMt-m-23Us_dzdpSAwLJ1IvJItfcu2'
         },
         {
             id : 3,
-            title : 'Data Science ',
-            details : 'This course is part of the Data Science Foundations: Data Engineering track, which is designed to help you build a strong foundation in data engineering concepts and skills.',
-            date : '17th Apr 2025',
-            field : 'Data',
-            image : 'https://vit162.examly.io/certificate/U2FsdGVkX19Y9Y6vYMOlIMVLcO1pUsBHF69XvErRiCQ%3D'
+            title : 'IBM DevOps Fundamentals',
+            details : 'This course is part of the IBM DevOps and Software Engineering Professional Certificate',
+            date : '31 march 2025',
+            field : 'Devops',
+            image : 'https://drive.google.com/drive/u/0/folders/1RVoMt-m-23Us_dzdpSAwLJ1IvJItfcu2'
+        },
+        {
+            id : 3,
+            title : 'udemy',
+            details : 'This course is part of the udemy Professional Certificate',
+            date : '28 may 2025',
+            field : 'kotlin',
+            image : 'https://drive.google.com/drive/u/0/folders/1RVoMt-m-23Us_dzdpSAwLJ1IvJItfcu2'
         }
 
     ]

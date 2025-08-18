@@ -9,11 +9,8 @@
     'Java',
     'Canva',
     'Kotlin',
+    'AndroidStudio',
     'Git',
-    'Android',
-    'Android Studio',
-    ''
-
 
 ]
 
@@ -100,4 +97,5 @@
     Tensorflow
     Webex
     Wordpress
+    Android Studio
 */
