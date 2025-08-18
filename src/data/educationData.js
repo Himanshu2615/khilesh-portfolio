@@ -1,17 +1,17 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'St. Xavier High School',
+        institution: 'Sunbeam School Varuna',
         course: 'Senior Secondary Education',
-        startYear: '219',
-        endYear: '2020'
+        startYear: '218',
+        endYear: '2019'
     },
     {
         id: 2,
-        institution: 'R. P. Junior College',
+        institution: 'Sunbeam School Varuna',
         course: 'Higher Secondary Education',
         startYear: '2020',
-        endYear: '2022'
+        endYear: '2021'
     },
     {
         id: 3,

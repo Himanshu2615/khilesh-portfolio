@@ -1,18 +1,12 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Linpack Club',
-        jobtitle: 'Event Coordinator',
-        startYear: '2023',
-        endYear: 'Present'
+        company: 'IOT Club VIT Bhopal',
+        jobtitle: 'Core Member & Developer',
+        startYear: '2024',
+        endYear: '2025'
     },
-    {
-        id: 2,
-        company: 'VIT Bhopal Convocation',
-        jobtitle: 'Volunteer',
-        startYear: '08-10',
-        endYear: '2023'
-    },
+
 
    
 ]

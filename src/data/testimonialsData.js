@@ -13,14 +13,14 @@ export const testimonialsData = [
         id: 1,
         name: 'Himanshu Jha',
         title: 'Software Engineer',
-        text: "This portfolio is amazing! Khilesh has done a great job in showcasing his skills and projects. It's very well organized and visually appealing.",
+        text: "This portfolio is amazing! Naveen has done a great job in showcasing his skills and projects. It's very well organized and visually appealing.",
         image: boy2
     },
     {
         id: 2,
         name: 'Abhinav Singh',
         title: 'Software Developer',
-        text: "Welldone Khilesh! Your portfolio is impressive and reflects your hard work and dedication. The design is clean and the content is informative.",
+        text: "Welldone Naveen! Your portfolio is impressive and reflects your hard work and dedication. The design is clean and the content is informative.",
         image: girl2
     },
     {

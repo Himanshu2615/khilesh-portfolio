@@ -14,12 +14,12 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Data Science',
+        title: 'App Development',
         icon: <BiPencil /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Java',
         icon: <AiOutlineMail />
     },
     // {
@@ -35,7 +35,7 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'App Design',
         icon: <BsCodeSlash />
     },
     {

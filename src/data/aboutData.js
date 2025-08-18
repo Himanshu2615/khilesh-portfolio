@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name is Khilesh Bhangale. I'm a final year student at VIT Bhopal University, pursuing a B.Tech in Computer Science and Engineering. I have a keen interest in Data-Science. I am also passionate about exploring new technologies and enhancing my skills in various domains.",
-    description2: "During the day I work as a Student at University and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours for data science. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "I'm a Computer Science Engineering undergraduate at VIT Bhopal with a strong passion for Android development and problem solving through Data Structures and Algorithms. I specialize in building efficient, user-friendly mobile applications using Java and Kotlin, and I enjoy crafting clean, scalable code that solves real-world problems.",
+    description2: "With a solid foundation in core CS concepts and hands-on experience developing Android apps, I continuously seek opportunities to grow, collaborate, and contribute to impactful tech projects. I'm especially enthusiastic about mobile technologies, software engineering, and everything that drives innovation.",
     image: 2
 }

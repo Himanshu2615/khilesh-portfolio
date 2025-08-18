@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'ombhangale09@gmail.com',
-    phone: '+91-9372109918',
-    address: 'A/202, Gokul Arcade , Gokul Township, Bolinj ,Virar(W)-401303',
+    email: 'naveen322.singh@gmail.com',
+    phone: '+91-8858653742',
+    address: 'Varanasi, Uttar Pradesh, India',
 
     sheetAPI: ''
 }
